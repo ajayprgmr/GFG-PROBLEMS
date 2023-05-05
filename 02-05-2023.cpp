@@ -1,3 +1,7 @@
+// Prolemlink : https://practice.geeksforgeeks.org/problems/0a7c7f1089932257071f9fa076f25d353f91e0fd/1
+
+//Optimal Solution
+
 class Solution{
     public:
     
@@ -38,3 +42,4 @@ int maxSweetness(vector<int> &sweetness, int N, int K)
     return ans;
 }
 };
+
