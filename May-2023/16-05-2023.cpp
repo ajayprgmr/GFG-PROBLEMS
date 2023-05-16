@@ -32,5 +32,6 @@
         //code
         int n = s.length();
         vector<vector<int>> dp(n,vector<int>(n,-1));
+        return help(s,0,n-1,dp);
     }
- }
+ };
